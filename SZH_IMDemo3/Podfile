@@ -1,0 +1,5 @@
+platform :ios, ‘8.0’
+target ‘SZH_IMDemo1’ do
+pod 'CocoaAsyncSocket', '~> 7.6.1'
+pod 'SocketRocket'
+end
